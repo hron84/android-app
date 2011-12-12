@@ -1,0 +1,13 @@
+Android SDK manager launcher
+============================
+
+To make launcher app, run
+
+    make SDK_HOME=/opt/android-sdk
+
+where SDK_HOME is where you unpacked android sdk zip.
+
+It will be creates Android.app what you can drag & drop
+anywhere in your filesystem, e.g. /Applications
+
+
