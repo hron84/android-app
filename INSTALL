@@ -7,7 +7,7 @@ To make launcher app, run
 
 where SDK_HOME is where you unpacked android sdk zip.
 
-It will be creates Android.app what you can drag & drop
+It will be create Android.app what you can drag & drop
 anywhere in your filesystem, e.g. /Applications
 
 
