@@ -1,5 +1,0 @@
-#!/bin/sh
-
-SDK_HOME=@@SDK_HOME@@
-
-exec ${SDK_HOME}/tools/android 
