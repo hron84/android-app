@@ -2,3 +2,4 @@
 Android.app
 android-sdk-macosx
 *.zip
+dist/
