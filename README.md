@@ -3,7 +3,7 @@ Android SDK Launcher
 
 This application is just a launcher for Android SDK and AVD manager application.
 
-For building launcher, please read INSTALL file.
+For building launcher, please read INSTALL.md file.
 
 Known Limitations
 -----------------
@@ -30,7 +30,7 @@ License
 This program is licensed under the terms of CreativeCommons BY 3.0 license, read
 LICENSE file for details.
 
-The Android trademark, a green robot mascot is owned by Google Inc. and, of course,
+The Android trademark and the green robot mascot is owned by Google Inc. and, of course,
 they reserve all rights.
 
 The Android SDK is licensed under the terms of [Apache Software License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
