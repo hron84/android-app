@@ -1,2 +1,4 @@
 .DS_Store
 Android.app
+android-sdk-macosx
+*.zip
